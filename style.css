@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+   
+}
+nav li{
+     margin-right: 30px;
+     list-style: none;
+    
+}
+nav li a{
+    text-decoration: none;
+   color:white;
+   font-family: Work Sans;
+font-size: 18px;
+}
+.title-nav{
+    font-size: 35px;
+    color: #131313;
+    font-family: Work Sans;
+}
